@@ -1,0 +1,19 @@
+body{
+    margin: 10px 25px;
+}
+.form-trier{
+display: flex;
+justify-content: space-between;
+background-color: lightgrey;
+padding: 15px 10px;
+}
+.btn-trier{
+background-color: #7c40ff;
+border:none;
+padding: 5px 20px;
+color: white;
+border-radius: 5px;
+}
+input#radiorecents {
+    color: #7c40ff;
+}
